@@ -1,8 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 
-## Name:Daksha Subbaian
-## Register Number:212223230036
+### Name:Daksha Subbaian
+### Register Number:212223230036
 
 
 ## Aim: 
